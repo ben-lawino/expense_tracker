@@ -124,7 +124,7 @@ class _NewExpenseState extends State<NewExpense> {
                       ),
                       decoration: InputDecoration(
                         label: Text('Amount'),
-                        prefixText: '\$ ',
+                        prefixText: '\Ksh ',
                       ),
                     ),
                   ),
